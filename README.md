@@ -10,20 +10,41 @@
 
 <table width="100%">
 <tr>
-<td bgcolor="#282a36" align="left">
+<td bgcolor="#282a36" align="left" style="padding: 10px;">
 <br>
 
-<div align="left">
-&nbsp;&nbsp;<img src="./Pop!_OS_Icon.svg.png" width="20" align="center">
-&nbsp;&nbsp;<font color="#48B9C7" size="2"><b>gabriel@pop-os: ~$</b></font><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=500&pause=50&color=FFFFFF&width=15&vCenter=true&lines=%E2%96%AE;+" align="center" />
-</div>
+<!-- Neofetch Style Header -->
+<table width="100%" border="0">
+<tr>
+<td width="160" align="center" valign="top">
+<br>
+<img src="./Pop!_OS_Icon.svg.png" width="100"><br>
+<font color="#ff79c6"><b>Pop!_OS</b></font>
+</td>
+<td valign="top">
+<br>
+<font color="#50fa7b"><b>gabriel</b></font><font color="#f8f8f2">@</font><font color="#50fa7b"><b>pop-os</b></font><br>
+<font color="#f8f8f2">--------------</font><br>
+<font color="#bd93f9"><b>OS</b></font><font color="#f8f8f2">: Pop!_OS 22.04 LTS x86_64</font><br>
+<font color="#bd93f9"><b>Host</b></font><font color="#f8f8f2">: Custom Build</font><br>
+<font color="#bd93f9"><b>Kernel</b></font><font color="#f8f8f2">: 6.9.3-76-generic</font><br>
+<font color="#bd93f9"><b>Uptime</b></font><font color="#f8f8f2">: 4 hours, 20 mins</font><br>
+<font color="#bd93f9"><b>Shell</b></font><font color="#f8f8f2">: bash 5.1.16</font><br>
+<font color="#bd93f9"><b>DE</b></font><font color="#f8f8f2">: COSMIC (Epoch)</font><br>
+<font color="#bd93f9"><b>WM</b></font><font color="#f8f8f2">: COSMIC-comp</font><br>
+<br>
+<font color="#282a36" bgcolor="#ff5555">&nbsp;&nbsp;&nbsp;</font><font color="#282a36" bgcolor="#50fa7b">&nbsp;&nbsp;&nbsp;</font><font color="#282a36" bgcolor="#f1fa8c">&nbsp;&nbsp;&nbsp;</font><font color="#282a36" bgcolor="#bd93f9">&nbsp;&nbsp;&nbsp;</font><font color="#282a36" bgcolor="#ff79c6">&nbsp;&nbsp;&nbsp;</font><font color="#282a36" bgcolor="#8be9fd">&nbsp;&nbsp;&nbsp;</font><font color="#282a36" bgcolor="#f8f8f2">&nbsp;&nbsp;&nbsp;</font>
+<br><br>
+<b><font color="#48B9C7">gabriel@pop-os</font></b>:<font color="#bd93f9">~</font>$ <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=500&pause=50&color=FFFFFF&width=15&vCenter=true&lines=%E2%96%AE;+" align="center" />
+</td>
+</tr>
+</table>
 
 <hr color="#44475a">
 
 <details open>
 <summary><b><font color="#48B9C7">gabriel@pop-os</font></b>:<font color="#bd93f9">~</font>$ run whoami</summary>
 <br>
-
 &nbsp;&nbsp;<b><font color="#ff79c6">NAME:</font></b> <font color="#f8f8f2">Gabriel Teixeira</font><br>
 &nbsp;&nbsp;<b><font color="#ff79c6">ROLE:</font></b> <font color="#f8f8f2">CTESP Student @ ISEC / Fullstack Intern</font><br>
 &nbsp;&nbsp;<b><font color="#ff79c6">LOCATION:</font></b> <font color="#f8f8f2">Cantanhede, Coimbra (Portugal)</font><br>
@@ -37,7 +58,6 @@
 <details>
 <summary><b><font color="#48B9C7">gabriel@pop-os</font></b>:<font color="#bd93f9">~</font>$ cat stack.conf</summary>
 <br>
-
 <table width="100%">
 <tr>
 <td width="50%" align="left" valign="top">
