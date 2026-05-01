@@ -19,23 +19,23 @@
 <td width="160" align="center" valign="top">
 <br>
 <img src="./Pop!_OS_Icon.svg.png" width="100"><br>
-${\color{#ff79c6} \textbf{Pop!\_OS}}$
+$\textsf{\color{#ff79c6}{Pop!\_OS}}$
 </td>
 <td valign="top">
 <br>
-${\color{#50fa7b} \textbf{gabriel}}{\color{#f8f8f2}@}{\color{#50fa7b} \textbf{pop-os}}$<br>
-${\color{#f8f8f2}--------------}}$<br>
-${\color{#bd93f9} \textbf{OS}}$${\color{#f8f8f2}: Pop!\_OS \space 22.04 \space LTS \space x86\_64}$<br>
-${\color{#bd93f9} \textbf{Host}}$${\color{#f8f8f2}: Custom \space Build}$<br>
-${\color{#bd93f9} \textbf{Kernel}}$${\color{#f8f8f2}: 6.9.3-76-generic}$<br>
-${\color{#bd93f9} \textbf{Uptime}}$${\color{#f8f8f2}: 4 \space hours, \space 20 \space mins}$<br>
-${\color{#bd93f9} \textbf{Shell}}$${\color{#f8f8f2}: bash \space 5.1.16}$<br>
-${\color{#bd93f9} \textbf{DE}}$${\color{#f8f8f2}: COSMIC \space (Epoch)}$<br>
-${\color{#bd93f9} \textbf{WM}}$${\color{#f8f8f2}: COSMIC-comp}$<br>
+$\textsf{\color{#50fa7b}{gabriel}}{\color{#f8f8f2}{@}}\textsf{\color{#50fa7b}{pop-os}}$<br>
+$\textsf{\color{#f8f8f2}{--------------}}$<br>
+$\textsf{\color{#bd93f9}{OS:}}\textsf{\color{#f8f8f2}{ Pop!\_OS 22.04 LTS x86\_64}}$<br>
+$\textsf{\color{#bd93f9}{Host:}}\textsf{\color{#f8f8f2}{ Custom Build}}$<br>
+$\textsf{\color{#bd93f9}{Kernel:}}\textsf{\color{#f8f8f2}{ 6.9.3-76-generic}}$<br>
+$\textsf{\color{#bd93f9}{Uptime:}}\textsf{\color{#f8f8f2}{ 4 hours, 20 mins}}$<br>
+$\textsf{\color{#bd93f9}{Shell:}}\textsf{\color{#f8f8f2}{ bash 5.1.16}}$<br>
+$\textsf{\color{#bd93f9}{DE:}}\textsf{\color{#f8f8f2}{ COSMIC (Epoch)}}$<br>
+$\textsf{\color{#bd93f9}{WM:}}\textsf{\color{#f8f8f2}{ COSMIC-comp}}$<br>
 <br>
 <img src="https://placehold.co/15x15/ff5555/ff5555.png" /> <img src="https://placehold.co/15x15/50fa7b/50fa7b.png" /> <img src="https://placehold.co/15x15/f1fa8c/f1fa8c.png" /> <img src="https://placehold.co/15x15/bd93f9/bd93f9.png" /> <img src="https://placehold.co/15x15/ff79c6/ff79c6.png" /> <img src="https://placehold.co/15x15/8be9fd/8be9fd.png" /> <img src="https://placehold.co/15x15/f8f8f2/f8f8f2.png" />
 <br><br>
-${\color{#48B9C7} \textbf{gabriel@pop-os}}$:${\color{#bd93f9} \sim}$\$ <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=500&pause=50&color=FFFFFF&width=15&vCenter=true&lines=%E2%96%AE;+" align="center" />
+$\textsf{\color{#48B9C7}{gabriel@pop-os}}\textsf{\color{#bd93f9}{:}}\textsf{\color{#bd93f9}{\sim}}\textsf{\color{#f8f8f2}{\$}}$ <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=500&pause=50&color=FFFFFF&width=15&vCenter=true&lines=%E2%96%AE;+" align="center" />
 </td>
 </tr>
 </table>
@@ -43,12 +43,12 @@ ${\color{#48B9C7} \textbf{gabriel@pop-os}}$:${\color{#bd93f9} \sim}$\$ <img src=
 <hr>
 
 <details open>
-<summary>${\color{#48B9C7} \textbf{gabriel@pop-os}}$:${\color{#bd93f9} \sim}$\$ run whoami</summary>
+<summary>$\textsf{\color{#48B9C7}{gabriel@pop-os}}\textsf{\color{#bd93f9}{:}}\textsf{\color{#bd93f9}{\sim}}\textsf{\color{#f8f8f2}{\$ run whoami}}$</summary>
 <br>
-&nbsp;&nbsp;${\color{#ff79c6} \textbf{NAME:}}$ ${\color{#f8f8f2} Gabriel \space Teixeira}$<br>
-&nbsp;&nbsp;${\color{#ff79c6} \textbf{ROLE:}}$ ${\color{#f8f8f2} CTESP \space Student \space @ \space ISEC \space / \space Fullstack \space Intern}$<br>
-&nbsp;&nbsp;${\color{#ff79c6} \textbf{LOCATION:}}$ ${\color{#f8f8f2} Cantanhede, \space Coimbra \space (Portugal)}$<br>
-&nbsp;&nbsp;${\color{#ff79c6} \textbf{READING:}}$ ${\color{#f8f8f2} \textit{The \space Pragmatic \space Programmer}}$<br>
+&nbsp;&nbsp;$\textsf{\color{#ff79c6}{NAME:}}\textsf{\color{#f8f8f2}{ Gabriel Teixeira}}$<br>
+&nbsp;&nbsp;$\textsf{\color{#ff79c6}{ROLE:}}\textsf{\color{#f8f8f2}{ CTESP Student @ ISEC / Fullstack Intern}}$<br>
+&nbsp;&nbsp;$\textsf{\color{#ff79c6}{LOCATION:}}\textsf{\color{#f8f8f2}{ Cantanhede, Coimbra (Portugal)}}$<br>
+&nbsp;&nbsp;$\textsf{\color{#ff79c6}{READING:}}\textsf{\color{#f8f8f2}{ \textit{The Pragmatic Programmer}}}$<br>
 <br>
 &nbsp;&nbsp;<a href="https://www.linkedin.com/in/gabrielferreirateixeira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </details>
@@ -56,12 +56,12 @@ ${\color{#48B9C7} \textbf{gabriel@pop-os}}$:${\color{#bd93f9} \sim}$\$ <img src=
 <hr>
 
 <details>
-<summary>${\color{#48B9C7} \textbf{gabriel@pop-os}}$:${\color{#bd93f9} \sim}$\$ cat stack.conf</summary>
+<summary>$\textsf{\color{#48B9C7}{gabriel@pop-os}}\textsf{\color{#bd93f9}{:}}\textsf{\color{#bd93f9}{\sim}}\textsf{\color{#f8f8f2}{\$ cat stack.conf}}$</summary>
 <br>
 <table width="100%">
 <tr>
 <td width="50%" align="left" valign="top">
-${\color{#ffb86c} \textbf{🐧 System \& Tools}}$<br>
+$\textsf{\color{#ffb86c}{🐧 System \& Tools}}$<br>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"><br>
 <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat-square&logo=pop!_os&logoColor=white"><br>
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"><br>
@@ -69,7 +69,7 @@ ${\color{#ffb86c} \textbf{🐧 System \& Tools}}$<br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
 </td>
 <td width="50%" align="left" valign="top">
-${\color{#ffb86c} \textbf{⚙️ Fullstack Stack}}$<br>
+$\textsf{\color{#ffb86c}{⚙️ Fullstack Stack}}$<br>
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"><br>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"><br>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"><br>
@@ -82,7 +82,7 @@ ${\color{#ffb86c} \textbf{⚙️ Fullstack Stack}}$<br>
 <hr>
 
 <details>
-<summary>${\color{#48B9C7} \textbf{gabriel@pop-os}}$:${\color{#bd93f9} \sim}$\$ git status</summary>
+<summary>$\textsf{\color{#48B9C7}{gabriel@pop-os}}\textsf{\color{#bd93f9}{:}}\textsf{\color{#bd93f9}{\sim}}\textsf{\color{#f8f8f2}{\$ git status}}$</summary>
 <br>
 <table width="100%">
 <tr>
@@ -99,7 +99,7 @@ ${\color{#ffb86c} \textbf{⚙️ Fullstack Stack}}$<br>
 <hr>
 
 <details>
-<summary>${\color{#48B9C7} \textbf{gabriel@pop-os}}$:${\color{#bd93f9} \sim}$\$ run snake-game</summary>
+<summary>$\textsf{\color{#48B9C7}{gabriel@pop-os}}\textsf{\color{#bd93f9}{:}}\textsf{\color{#bd93f9}{\sim}}\textsf{\color{#f8f8f2}{\$ run snake-game}}$</summary>
 <br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/GabrielTeixeiral0l/GabrielTeixeiral0l/output/github-contribution-grid-snake.svg" alt="Snake Game" />
@@ -109,19 +109,19 @@ ${\color{#ffb86c} \textbf{⚙️ Fullstack Stack}}$<br>
 <hr>
 
 <details>
-<summary>${\color{#48B9C7} \textbf{gabriel@pop-os}}$:${\color{#bd93f9} \sim}$\$ ls -la projects/</summary>
+<summary>$\textsf{\color{#48B9C7}{gabriel@pop-os}}\textsf{\color{#bd93f9}{:}}\textsf{\color{#bd93f9}{\sim}}\textsf{\color{#f8f8f2}{\$ ls -la projects/}}$</summary>
 <br>
-&nbsp;&nbsp;📁 <b><a href="https://github.com/GabrielTeixeiral0l/MountSync">${\color{#50fa7b} \textbf{MountSync}}$</a></b><br>
-&nbsp;&nbsp;<i>${\color{#6272a4} Minimalist \space dotfile \space orchestrator \space powered \space by \space rclone.}$</i>
+&nbsp;&nbsp;📁 <b><a href="https://github.com/GabrielTeixeiral0l/MountSync">$\textsf{\color{#50fa7b}{MountSync}}$</a></b><br>
+&nbsp;&nbsp;<i>$\textsf{\color{#6272a4}{Minimalist dotfile orchestrator powered by rclone.}}$</i>
 </details>
 
 <hr>
 
 <details>
-<summary>${\color{#48B9C7} \textbf{gabriel@pop-os}}$:${\color{#bd93f9} \sim}$\$ fortune</summary>
+<summary>$\textsf{\color{#48B9C7}{gabriel@pop-os}}\textsf{\color{#bd93f9}{:}}\textsf{\color{#bd93f9}{\sim}}\textsf{\color{#f8f8f2}{\$ fortune}}$</summary>
 <br>
-&nbsp;&nbsp;${\color{#f1fa8c} \text{"Think! \space About \space Your \space Work."}}$<br>
-&nbsp;&nbsp;${\color{#6272a4} -- \space The \space Pragmatic \space Programmer}$
+&nbsp;&nbsp;$\textsf{\color{#f1fa8c}{“Think! About Your Work.”}}$<br>
+&nbsp;&nbsp;$\textsf{\color{#6272a4}{-- The Pragmatic Programmer}}$
 </details>
 
 <br>
