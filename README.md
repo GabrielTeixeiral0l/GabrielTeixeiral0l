@@ -19,48 +19,30 @@
 <hr>
 
 <details open>
-<summary><b><font color="#48B9C7">gabriel@pop-os</font></b>:<font color="#bd93f9">~</font>$ run whoami</summary>
+<summary><b>whoami</b></summary>
 <br>
-&nbsp;&nbsp;<b><font color="#ff79c6">NAME:</font></b> <font color="#f8f8f2">Gabriel Teixeira</font><br>
-&nbsp;&nbsp;<b><font color="#ff79c6">ROLE:</font></b> <font color="#f8f8f2">CTESP Student @ ISEC / Fullstack Intern</font><br>
-&nbsp;&nbsp;<b><font color="#ff79c6">LOCATION:</font></b> <font color="#f8f8f2">Cantanhede, Coimbra (Portugal)</font><br>
-&nbsp;&nbsp;<b><font color="#ff79c6">READING:</font></b> <font color="#f8f8f2"><i>The Pragmatic Programmer</i></font><br>
+<img src="./.github/assets/terminal/whoami.svg" width="600" />
 <br>
-&nbsp;&nbsp;<a href="https://www.linkedin.com/in/gabrielferreirateixeira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<p align="left">
+  &nbsp;&nbsp;<a href="https://www.linkedin.com/in/gabrielferreirateixeira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
 </details>
 
 <hr>
 
 <details>
-<summary><b><font color="#48B9C7">gabriel@pop-os</font></b>:<font color="#bd93f9">~</font>$ cat stack.conf</summary>
+<summary><b>stack.conf</b></summary>
 <br>
-<table width="100%">
-<tr>
-<td width="50%" align="left" valign="top">
-<b><font color="#ffb86c">🐧 System & Tools</font></b><br>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"><br>
-<img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat-square&logo=pop!_os&logoColor=white"><br>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"><br>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"><br>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-</td>
-<td width="50%" align="left" valign="top">
-<b><font color="#ffb86c">⚙️ Fullstack Stack</font></b><br>
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"><br>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"><br>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"><br>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
-</td>
-</tr>
-</table>
+<img src="./.github/assets/terminal/stack.svg" width="600" />
 </details>
 
 <hr>
 
 <details>
-<summary><b><font color="#48B9C7">gabriel@pop-os</font></b>:<font color="#bd93f9">~</font>$ git status</summary>
+<summary><b>git status</b></summary>
 <br>
-<table width="100%">
+<img src="./.github/assets/terminal/git_header.svg" width="600" />
+<table width="100%" style="background: #282a36; border-radius: 0 0 8px 8px; margin-top: -1px;">
 <tr>
 <td align="center" width="50%">
 <img src="https://github-readme-stats-fast.vercel.app/api?username=GabrielTeixeiral0l&show_icons=true&theme=dracula&hide_border=true&title_color=8be9fd&text_color=f8f8f2&icon_color=bd93f9" height="150">
@@ -75,27 +57,28 @@
 <hr>
 
 <details>
-<summary><b><font color="#48B9C7">gabriel@pop-os</font></b>:<font color="#bd93f9">~</font>$ run snake-game</summary>
+<summary><b>snake-game</b></summary>
 <br>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GabrielTeixeiral0l/GabrielTeixeiral0l/output/github-contribution-grid-snake.svg" alt="Snake Game" />
-</p>
+<img src="./.github/assets/terminal/snake_header.svg" width="600" />
+<div style="background: #282a36; border-radius: 0 0 8px 8px; padding: 20px; margin-top: -1px;">
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/GabrielTeixeiral0l/GabrielTeixeiral0l/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+  </p>
+</div>
 </details>
 
 <hr>
 
 <details>
-<summary><b><font color="#48B9C7">gabriel@pop-os</font></b>:<font color="#bd93f9">~</font>$ ls -la projects/</summary>
+<summary><b>projects</b></summary>
 <br>
-&nbsp;&nbsp;📁 <b><a href="https://github.com/GabrielTeixeiral0l/MountSync"><font color="#50fa7b">MountSync</font></a></b><br>
-&nbsp;&nbsp;<i><font color="#6272a4">Minimalist dotfile orchestrator powered by rclone.</font></i>
+<img src="./.github/assets/terminal/projects.svg" width="600" />
 </details>
 
 <hr>
 
 <details>
-<summary><b><font color="#48B9C7">gabriel@pop-os</font></b>:<font color="#bd93f9">~</font>$ fortune</summary>
+<summary><b>fortune</b></summary>
 <br>
-&nbsp;&nbsp;<font color="#f1fa8c">“Think! About Your Work.”</font><br>
-&nbsp;&nbsp;<font color="#6272a4">-- The Pragmatic Programmer</font>
+<img src="./.github/assets/terminal/fortune.svg" width="600" />
 </details>
