@@ -19,49 +19,49 @@
 <td width="160" align="center" valign="top">
 <br>
 <img src="./Pop!_OS_Icon.svg.png" width="100"><br>
-<font color="#ff79c6"><b>Pop!_OS</b></font>
+${\color{#ff79c6} \textbf{Pop!\_OS}}$
 </td>
 <td valign="top">
 <br>
-<font color="#50fa7b"><b>gabriel</b></font><font color="#f8f8f2">@</font><font color="#50fa7b"><b>pop-os</b></font><br>
-<font color="#f8f8f2">--------------</font><br>
-<font color="#bd93f9"><b>OS</b></font><font color="#f8f8f2">: Pop!_OS 22.04 LTS x86_64</font><br>
-<font color="#bd93f9"><b>Host</b></font><font color="#f8f8f2">: Custom Build</font><br>
-<font color="#bd93f9"><b>Kernel</b></font><font color="#f8f8f2">: 6.9.3-76-generic</font><br>
-<font color="#bd93f9"><b>Uptime</b></font><font color="#f8f8f2">: 4 hours, 20 mins</font><br>
-<font color="#bd93f9"><b>Shell</b></font><font color="#f8f8f2">: bash 5.1.16</font><br>
-<font color="#bd93f9"><b>DE</b></font><font color="#f8f8f2">: COSMIC (Epoch)</font><br>
-<font color="#bd93f9"><b>WM</b></font><font color="#f8f8f2">: COSMIC-comp</font><br>
+${\color{#50fa7b} \textbf{gabriel}}{\color{#f8f8f2}@}{\color{#50fa7b} \textbf{pop-os}}$<br>
+${\color{#f8f8f2}--------------}}$<br>
+${\color{#bd93f9} \textbf{OS}}$${\color{#f8f8f2}: Pop!\_OS \space 22.04 \space LTS \space x86\_64}$<br>
+${\color{#bd93f9} \textbf{Host}}$${\color{#f8f8f2}: Custom \space Build}$<br>
+${\color{#bd93f9} \textbf{Kernel}}$${\color{#f8f8f2}: 6.9.3-76-generic}$<br>
+${\color{#bd93f9} \textbf{Uptime}}$${\color{#f8f8f2}: 4 \space hours, \space 20 \space mins}$<br>
+${\color{#bd93f9} \textbf{Shell}}$${\color{#f8f8f2}: bash \space 5.1.16}$<br>
+${\color{#bd93f9} \textbf{DE}}$${\color{#f8f8f2}: COSMIC \space (Epoch)}$<br>
+${\color{#bd93f9} \textbf{WM}}$${\color{#f8f8f2}: COSMIC-comp}$<br>
 <br>
-<font color="#282a36" bgcolor="#ff5555">&nbsp;&nbsp;&nbsp;</font><font color="#282a36" bgcolor="#50fa7b">&nbsp;&nbsp;&nbsp;</font><font color="#282a36" bgcolor="#f1fa8c">&nbsp;&nbsp;&nbsp;</font><font color="#282a36" bgcolor="#bd93f9">&nbsp;&nbsp;&nbsp;</font><font color="#282a36" bgcolor="#ff79c6">&nbsp;&nbsp;&nbsp;</font><font color="#282a36" bgcolor="#8be9fd">&nbsp;&nbsp;&nbsp;</font><font color="#282a36" bgcolor="#f8f8f2">&nbsp;&nbsp;&nbsp;</font>
+<img src="https://placehold.co/15x15/ff5555/ff5555.png" /> <img src="https://placehold.co/15x15/50fa7b/50fa7b.png" /> <img src="https://placehold.co/15x15/f1fa8c/f1fa8c.png" /> <img src="https://placehold.co/15x15/bd93f9/bd93f9.png" /> <img src="https://placehold.co/15x15/ff79c6/ff79c6.png" /> <img src="https://placehold.co/15x15/8be9fd/8be9fd.png" /> <img src="https://placehold.co/15x15/f8f8f2/f8f8f2.png" />
 <br><br>
-<b><font color="#48B9C7">gabriel@pop-os</font></b>:<font color="#bd93f9">~</font>$ <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=500&pause=50&color=FFFFFF&width=15&vCenter=true&lines=%E2%96%AE;+" align="center" />
+${\color{#48B9C7} \textbf{gabriel@pop-os}}$:${\color{#bd93f9} \sim}$\$ <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=500&pause=50&color=FFFFFF&width=15&vCenter=true&lines=%E2%96%AE;+" align="center" />
 </td>
 </tr>
 </table>
 
-<hr color="#44475a">
+<hr>
 
 <details open>
-<summary><b><font color="#48B9C7">gabriel@pop-os</font></b>:<font color="#bd93f9">~</font>$ run whoami</summary>
+<summary>${\color{#48B9C7} \textbf{gabriel@pop-os}}$:${\color{#bd93f9} \sim}$\$ run whoami</summary>
 <br>
-&nbsp;&nbsp;<b><font color="#ff79c6">NAME:</font></b> <font color="#f8f8f2">Gabriel Teixeira</font><br>
-&nbsp;&nbsp;<b><font color="#ff79c6">ROLE:</font></b> <font color="#f8f8f2">CTESP Student @ ISEC / Fullstack Intern</font><br>
-&nbsp;&nbsp;<b><font color="#ff79c6">LOCATION:</font></b> <font color="#f8f8f2">Cantanhede, Coimbra (Portugal)</font><br>
-&nbsp;&nbsp;<b><font color="#ff79c6">READING:</font></b> <font color="#f8f8f2"><i>The Pragmatic Programmer</i></font><br>
+&nbsp;&nbsp;${\color{#ff79c6} \textbf{NAME:}}$ ${\color{#f8f8f2} Gabriel \space Teixeira}$<br>
+&nbsp;&nbsp;${\color{#ff79c6} \textbf{ROLE:}}$ ${\color{#f8f8f2} CTESP \space Student \space @ \space ISEC \space / \space Fullstack \space Intern}$<br>
+&nbsp;&nbsp;${\color{#ff79c6} \textbf{LOCATION:}}$ ${\color{#f8f8f2} Cantanhede, \space Coimbra \space (Portugal)}$<br>
+&nbsp;&nbsp;${\color{#ff79c6} \textbf{READING:}}$ ${\color{#f8f8f2} \textit{The \space Pragmatic \space Programmer}}$<br>
 <br>
 &nbsp;&nbsp;<a href="https://www.linkedin.com/in/gabrielferreirateixeira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </details>
 
-<hr color="#44475a">
+<hr>
 
 <details>
-<summary><b><font color="#48B9C7">gabriel@pop-os</font></b>:<font color="#bd93f9">~</font>$ cat stack.conf</summary>
+<summary>${\color{#48B9C7} \textbf{gabriel@pop-os}}$:${\color{#bd93f9} \sim}$\$ cat stack.conf</summary>
 <br>
 <table width="100%">
 <tr>
 <td width="50%" align="left" valign="top">
-<b><font color="#ffb86c">🐧 System & Tools</font></b><br>
+${\color{#ffb86c} \textbf{🐧 System \& Tools}}$<br>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"><br>
 <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat-square&logo=pop!_os&logoColor=white"><br>
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"><br>
@@ -69,7 +69,7 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
 </td>
 <td width="50%" align="left" valign="top">
-<b><font color="#ffb86c">⚙️ Fullstack Stack</font></b><br>
+${\color{#ffb86c} \textbf{⚙️ Fullstack Stack}}$<br>
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"><br>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"><br>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"><br>
@@ -79,10 +79,10 @@
 </table>
 </details>
 
-<hr color="#44475a">
+<hr>
 
 <details>
-<summary><b><font color="#48B9C7">gabriel@pop-os</font></b>:<font color="#bd93f9">~</font>$ git status</summary>
+<summary>${\color{#48B9C7} \textbf{gabriel@pop-os}}$:${\color{#bd93f9} \sim}$\$ git status</summary>
 <br>
 <table width="100%">
 <tr>
@@ -96,32 +96,32 @@
 </table>
 </details>
 
-<hr color="#44475a">
+<hr>
 
 <details>
-<summary><b><font color="#48B9C7">gabriel@pop-os</font></b>:<font color="#bd93f9">~</font>$ run snake-game</summary>
+<summary>${\color{#48B9C7} \textbf{gabriel@pop-os}}$:${\color{#bd93f9} \sim}$\$ run snake-game</summary>
 <br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/GabrielTeixeiral0l/GabrielTeixeiral0l/output/github-contribution-grid-snake.svg" alt="Snake Game" />
 </p>
 </details>
 
-<hr color="#44475a">
+<hr>
 
 <details>
-<summary><b><font color="#48B9C7">gabriel@pop-os</font></b>:<font color="#bd93f9">~</font>$ ls -la projects/</summary>
+<summary>${\color{#48B9C7} \textbf{gabriel@pop-os}}$:${\color{#bd93f9} \sim}$\$ ls -la projects/</summary>
 <br>
-&nbsp;&nbsp;📁 <b><a href="https://github.com/GabrielTeixeiral0l/MountSync"><font color="#50fa7b">MountSync</font></a></b><br>
-&nbsp;&nbsp;<i><font color="#6272a4">Minimalist dotfile orchestrator powered by rclone.</font></i>
+&nbsp;&nbsp;📁 <b><a href="https://github.com/GabrielTeixeiral0l/MountSync">${\color{#50fa7b} \textbf{MountSync}}$</a></b><br>
+&nbsp;&nbsp;<i>${\color{#6272a4} Minimalist \space dotfile \space orchestrator \space powered \space by \space rclone.}$</i>
 </details>
 
-<hr color="#44475a">
+<hr>
 
 <details>
-<summary><b><font color="#48B9C7">gabriel@pop-os</font></b>:<font color="#bd93f9">~</font>$ fortune</summary>
+<summary>${\color{#48B9C7} \textbf{gabriel@pop-os}}$:${\color{#bd93f9} \sim}$\$ fortune</summary>
 <br>
-&nbsp;&nbsp;<font color="#f1fa8c">"Think! About Your Work."</font><br>
-&nbsp;&nbsp;<font color="#6272a4">-- The Pragmatic Programmer</font>
+&nbsp;&nbsp;${\color{#f1fa8c} \text{"Think! \space About \space Your \space Work."}}$<br>
+&nbsp;&nbsp;${\color{#6272a4} -- \space The \space Pragmatic \space Programmer}$
 </details>
 
 <br>
