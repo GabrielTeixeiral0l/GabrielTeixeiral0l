@@ -19,7 +19,7 @@
 <hr>
 
 <details open>
-<summary><b>whoami</b></summary>
+<summary><b><font color="#48B9C7">gabriel@pop-os</font></b>:<font color="#bd93f9">~</font>$ run whoami</summary>
 <br>
 <img src="./.github/assets/terminal/whoami.svg" width="600" />
 <br>
@@ -31,7 +31,7 @@
 <hr>
 
 <details>
-<summary><b>stack.conf</b></summary>
+<summary><b><font color="#48B9C7">gabriel@pop-os</font></b>:<font color="#bd93f9">~</font>$ cat stack.conf</summary>
 <br>
 <img src="./.github/assets/terminal/stack.svg" width="600" />
 </details>
@@ -39,10 +39,9 @@
 <hr>
 
 <details>
-<summary><b>git status</b></summary>
+<summary><b><font color="#48B9C7">gabriel@pop-os</font></b>:<font color="#bd93f9">~</font>$ git status</summary>
 <br>
-<img src="./.github/assets/terminal/git_header.svg" width="600" />
-<table width="100%" style="background: #282a36; border-radius: 0 0 8px 8px; margin-top: -1px;">
+<table width="100%" style="background: #282a36; border-radius: 8px; padding: 10px;">
 <tr>
 <td align="center" width="50%">
 <img src="https://github-readme-stats-fast.vercel.app/api?username=GabrielTeixeiral0l&show_icons=true&theme=dracula&hide_border=true&title_color=8be9fd&text_color=f8f8f2&icon_color=bd93f9" height="150">
@@ -57,10 +56,9 @@
 <hr>
 
 <details>
-<summary><b>snake-game</b></summary>
+<summary><b><font color="#48B9C7">gabriel@pop-os</font></b>:<font color="#bd93f9">~</font>$ run snake-game</summary>
 <br>
-<img src="./.github/assets/terminal/snake_header.svg" width="600" />
-<div style="background: #282a36; border-radius: 0 0 8px 8px; padding: 20px; margin-top: -1px;">
+<div style="background: #282a36; border-radius: 8px; padding: 20px;">
   <p align="center">
     <img src="https://raw.githubusercontent.com/GabrielTeixeiral0l/GabrielTeixeiral0l/output/github-contribution-grid-snake.svg" alt="Snake Game" />
   </p>
@@ -70,7 +68,7 @@
 <hr>
 
 <details>
-<summary><b>projects</b></summary>
+<summary><b><font color="#48B9C7">gabriel@pop-os</font></b>:<font color="#bd93f9">~</font>$ ls -la projects/</summary>
 <br>
 <img src="./.github/assets/terminal/projects.svg" width="600" />
 </details>
@@ -78,7 +76,7 @@
 <hr>
 
 <details>
-<summary><b>fortune</b></summary>
+<summary><b><font color="#48B9C7">gabriel@pop-os</font></b>:<font color="#bd93f9">~</font>$ fortune</summary>
 <br>
 <img src="./.github/assets/terminal/fortune.svg" width="600" />
 </details>
