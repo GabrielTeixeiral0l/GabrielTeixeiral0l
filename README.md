@@ -8,47 +8,23 @@
 
 <br>
 
-<table width="100%">
-<tr>
-<td bgcolor="#282a36" align="left" style="padding: 10px;">
 <br>
 
-<!-- Neofetch Style Header -->
-<table width="100%" border="0">
-<tr>
-<td width="160" align="center" valign="top">
+<div align="center">
+  <img src="./.github/assets/neofetch.svg" width="600" />
+</div>
+
 <br>
-<img src="./Pop!_OS_Icon.svg.png" width="100"><br>
-<img src="https://img.shields.io/badge/Pop!_OS-ff79c6?style=flat-square&labelColor=282a36&color=ff79c6" />
-</td>
-<td valign="top">
-<br>
-<img src="https://img.shields.io/badge/gabriel@pop--os-50fa7b?style=flat-square&labelColor=282a36&color=50fa7b" /><br>
-<img src="https://img.shields.io/badge/---------------f8f8f2?style=flat-square&labelColor=282a36&color=f8f8f2" /><br>
-$\textsf{\color{#bd93f9}OS: \color{#f8f8f2}Pop!\_OS 22.04 LTS x86\_64}$<br>
-$\textsf{\color{#bd93f9}Host: \color{#f8f8f2}Custom Build}$<br>
-$\textsf{\color{#bd93f9}Kernel: \color{#f8f8f2}6.9.3-76-generic}$<br>
-$\textsf{\color{#bd93f9}Uptime: \color{#f8f8f2}4 hours, 20 mins}$<br>
-$\textsf{\color{#bd93f9}Shell: \color{#f8f8f2}bash 5.1.16}$<br>
-$\textsf{\color{#bd93f9}DE: \color{#f8f8f2}COSMIC (Epoch)}$<br>
-$\textsf{\color{#bd93f9}WM: \color{#f8f8f2}COSMIC-comp}$<br>
-<br>
-<img src="https://placehold.co/15x15/ff5555/ff5555.png" /> <img src="https://placehold.co/15x15/50fa7b/50fa7b.png" /> <img src="https://placehold.co/15x15/f1fa8c/f1fa8c.png" /> <img src="https://placehold.co/15x15/bd93f9/bd93f9.png" /> <img src="https://placehold.co/15x15/ff79c6/ff79c6.png" /> <img src="https://placehold.co/15x15/8be9fd/8be9fd.png" /> <img src="https://placehold.co/15x15/f8f8f2/f8f8f2.png" />
-<br><br>
-<img src="https://img.shields.io/badge/gabriel@pop--os%3A~%24-48B9C7?style=flat-square&labelColor=282a36&color=48B9C7" /><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=500&pause=50&color=FFFFFF&width=15&vCenter=true&lines=%E2%96%AE;+" align="center" />
-</td>
-</tr>
-</table>
 
 <hr>
 
 <details open>
-<summary><img src="https://img.shields.io/badge/gabriel@pop--os%3A~%24-48B9C7?style=flat-square&labelColor=282a36&color=48B9C7" /> <b>run whoami</b></summary>
+<summary><b><font color="#48B9C7">gabriel@pop-os</font></b>:<font color="#bd93f9">~</font>$ run whoami</summary>
 <br>
-&nbsp;&nbsp;<b><font color="#ff79c6">NAME:</font></b> Gabriel Teixeira<br>
-&nbsp;&nbsp;<b><font color="#ff79c6">ROLE:</font></b> CTESP Student @ ISEC / Fullstack Intern<br>
-&nbsp;&nbsp;<b><font color="#ff79c6">LOCATION:</font></b> Cantanhede, Coimbra (Portugal)<br>
-&nbsp;&nbsp;<b><font color="#ff79c6">READING:</font></b> The Pragmatic Programmer<br>
+&nbsp;&nbsp;<b><font color="#ff79c6">NAME:</font></b> <font color="#f8f8f2">Gabriel Teixeira</font><br>
+&nbsp;&nbsp;<b><font color="#ff79c6">ROLE:</font></b> <font color="#f8f8f2">CTESP Student @ ISEC / Fullstack Intern</font><br>
+&nbsp;&nbsp;<b><font color="#ff79c6">LOCATION:</font></b> <font color="#f8f8f2">Cantanhede, Coimbra (Portugal)</font><br>
+&nbsp;&nbsp;<b><font color="#ff79c6">READING:</font></b> <font color="#f8f8f2"><i>The Pragmatic Programmer</i></font><br>
 <br>
 &nbsp;&nbsp;<a href="https://www.linkedin.com/in/gabrielferreirateixeira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </details>
@@ -56,7 +32,7 @@ $\textsf{\color{#bd93f9}WM: \color{#f8f8f2}COSMIC-comp}$<br>
 <hr>
 
 <details>
-<summary><img src="https://img.shields.io/badge/gabriel@pop--os%3A~%24-48B9C7?style=flat-square&labelColor=282a36&color=48B9C7" /> <b>cat stack.conf</b></summary>
+<summary><b><font color="#48B9C7">gabriel@pop-os</font></b>:<font color="#bd93f9">~</font>$ cat stack.conf</summary>
 <br>
 <table width="100%">
 <tr>
@@ -82,7 +58,7 @@ $\textsf{\color{#bd93f9}WM: \color{#f8f8f2}COSMIC-comp}$<br>
 <hr>
 
 <details>
-<summary><img src="https://img.shields.io/badge/gabriel@pop--os%3A~%24-48B9C7?style=flat-square&labelColor=282a36&color=48B9C7" /> <b>git status</b></summary>
+<summary><b><font color="#48B9C7">gabriel@pop-os</font></b>:<font color="#bd93f9">~</font>$ git status</summary>
 <br>
 <table width="100%">
 <tr>
@@ -99,7 +75,7 @@ $\textsf{\color{#bd93f9}WM: \color{#f8f8f2}COSMIC-comp}$<br>
 <hr>
 
 <details>
-<summary><img src="https://img.shields.io/badge/gabriel@pop--os%3A~%24-48B9C7?style=flat-square&labelColor=282a36&color=48B9C7" /> <b>run snake-game</b></summary>
+<summary><b><font color="#48B9C7">gabriel@pop-os</font></b>:<font color="#bd93f9">~</font>$ run snake-game</summary>
 <br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/GabrielTeixeiral0l/GabrielTeixeiral0l/output/github-contribution-grid-snake.svg" alt="Snake Game" />
@@ -109,22 +85,17 @@ $\textsf{\color{#bd93f9}WM: \color{#f8f8f2}COSMIC-comp}$<br>
 <hr>
 
 <details>
-<summary><img src="https://img.shields.io/badge/gabriel@pop--os%3A~%24-48B9C7?style=flat-square&labelColor=282a36&color=48B9C7" /> <b>ls -la projects/</b></summary>
+<summary><b><font color="#48B9C7">gabriel@pop-os</font></b>:<font color="#bd93f9">~</font>$ ls -la projects/</summary>
 <br>
-&nbsp;&nbsp;📁 <b><a href="https://github.com/GabrielTeixeiral0l/MountSync">MountSync</a></b><br>
-&nbsp;&nbsp;<i>Minimalist dotfile orchestrator powered by rclone.</i>
+&nbsp;&nbsp;📁 <b><a href="https://github.com/GabrielTeixeiral0l/MountSync"><font color="#50fa7b">MountSync</font></a></b><br>
+&nbsp;&nbsp;<i><font color="#6272a4">Minimalist dotfile orchestrator powered by rclone.</font></i>
 </details>
 
 <hr>
 
 <details>
-<summary><img src="https://img.shields.io/badge/gabriel@pop--os%3A~%24-48B9C7?style=flat-square&labelColor=282a36&color=48B9C7" /> <b>fortune</b></summary>
+<summary><b><font color="#48B9C7">gabriel@pop-os</font></b>:<font color="#bd93f9">~</font>$ fortune</summary>
 <br>
 &nbsp;&nbsp;<font color="#f1fa8c">“Think! About Your Work.”</font><br>
 &nbsp;&nbsp;<font color="#6272a4">-- The Pragmatic Programmer</font>
 </details>
-
-<br>
-</td>
-</tr>
-</table>

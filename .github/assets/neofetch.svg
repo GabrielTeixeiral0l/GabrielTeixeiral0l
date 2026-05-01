@@ -1,0 +1,63 @@
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          background: #282a36;
+          padding: 20px;
+          font-family: 'JetBrains Mono', monospace;
+          color: #f8f8f2;
+          border-radius: 10px;
+          height: 260px;
+          display: flex;
+        }
+        .logo-section {
+          width: 150px;
+          text-align: center;
+          margin-right: 20px;
+        }
+        .info-section {
+          flex: 1;
+        }
+        .header { color: #50fa7b; font-weight: bold; }
+        .separator { color: #f8f8f2; }
+        .key { color: #bd93f9; font-weight: bold; }
+        .value { color: #f8f8f2; }
+        .prompt-user { color: #50fa7b; font-weight: bold; }
+        .prompt-host { color: #50fa7b; font-weight: bold; }
+        .prompt-dir { color: #bd93f9; }
+        .color-blocks { display: flex; gap: 5px; margin-top: 10px; }
+        .block { width: 15px; height: 15px; }
+      </style>
+      <div class="container">
+        <div class="logo-section">
+          <img src="https://raw.githubusercontent.com/GabrielTeixeiral0l/GabrielTeixeiral0l/main/Pop!_OS_Icon.svg.png" width="80" />
+          <div style="color: #ff79c6; font-weight: bold; margin-top: 10px;">Pop!_OS</div>
+        </div>
+        <div class="info-section">
+          <div><span class="header">gabriel</span><span class="separator">@</span><span class="header">pop-os</span></div>
+          <div class="separator">--------------</div>
+          <div><span class="key">OS</span>: <span class="value">Pop!_OS 22.04 LTS x86_64</span></div>
+          <div><span class="key">Host</span>: <span class="value">Custom Build</span></div>
+          <div><span class="key">Kernel</span>: <span class="value">6.9.3-76-generic</span></div>
+          <div><span class="key">Uptime</span>: <span class="value">4 hours, 20 mins</span></div>
+          <div><span class="key">Shell</span>: <span class="value">bash 5.1.16</span></div>
+          <div><span class="key">DE</span>: <span class="value">COSMIC (Epoch)</span></div>
+          <div><span class="key">WM</span>: <span class="value">COSMIC-comp</span></div>
+          <div class="color-blocks">
+            <div class="block" style="background: #ff5555;"></div>
+            <div class="block" style="background: #50fa7b;"></div>
+            <div class="block" style="background: #f1fa8c;"></div>
+            <div class="block" style="background: #bd93f9;"></div>
+            <div class="block" style="background: #ff79c6;"></div>
+            <div class="block" style="background: #8be9fd;"></div>
+            <div class="block" style="background: #f8f8f2;"></div>
+          </div>
+          <div style="margin-top: 20px;">
+            <span class="prompt-user">gabriel@pop-os</span><span class="value">:</span><span class="prompt-dir">~</span><span class="value">$ </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
