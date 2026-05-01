@@ -1,51 +1,12 @@
-<svg fill="none" viewBox="0 0 600 130" width="600" height="130" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        .terminal {
-          background: #282a36;
-          padding: 15px;
-          font-family: 'JetBrains Mono', monospace;
-          color: #f8f8f2;
-          border-radius: 8px;
-          line-height: 1.5;
-          font-size: 14px;
-        }
-        .prompt { color: #48B9C7; font-weight: bold; }
-        .dir { color: #bd93f9; }
-        .cmd { color: #f8f8f2; }
-        .label { color: #ff79c6; font-weight: bold; }
-        .value { color: #f8f8f2; }
-        .link { color: #50fa7b; text-decoration: none; }
-        .quote { color: #f1fa8c; }
-        .meta { color: #6272a4; }
-        .cursor {
-          background: #f8f8f2;
-          display: inline-block;
-          width: 8px;
-          height: 15px;
-          vertical-align: middle;
-          margin-left: 5px;
-          animation: blink 1s step-end infinite;
-        }
-        @keyframes blink {
-          0%, 100% { opacity: 1; }
-          50% { opacity: 0; }
-        }
-        .grid { display: flex; gap: 20px; }
-        .col { flex: 1; }
-      </style>
-      <div class="terminal">
-        <div><span class="prompt">gabriel@pop-os</span>:<span class="dir">~</span>$ <span class="cmd">run whoami</span><span class="cursor"></span></div>
-        <div style="margin-top: 10px;">
-          
-  &nbsp;&nbsp;<span class="label">NAME:</span> <span class="value">Gabriel Teixeira</span><br/>
-  &nbsp;&nbsp;<span class="label">ROLE:</span> <span class="value">CTESP Student @ ISEC / Fullstack Intern</span><br/>
-  &nbsp;&nbsp;<span class="label">LOCATION:</span> <span class="value">Cantanhede, Coimbra (Portugal)</span><br/>
-  &nbsp;&nbsp;<span class="label">READING:</span> <span class="value">The Pragmatic Programmer</span>
+<svg fill="none" viewBox="0 0 600 140" width="600" height="140" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="140" rx="8" fill="#282a36" />
+  <text x="15" y="30" font-family="JetBrains Mono, monospace" font-size="14"><tspan fill="#48B9C7" font-weight="bold">gabriel@pop-os</tspan><tspan fill="#f8f8f2" >:</tspan><tspan fill="#bd93f9" >~</tspan><tspan fill="#f8f8f2" >$ </tspan><tspan fill="#f8f8f2" >run whoami</tspan></text>
+<text x="30" y="60" font-family="JetBrains Mono, monospace" font-size="14"><tspan fill="#ff79c6" font-weight="bold">NAME: </tspan><tspan fill="#f8f8f2" >Gabriel Teixeira</tspan></text>
+<text x="30" y="80" font-family="JetBrains Mono, monospace" font-size="14"><tspan fill="#ff79c6" font-weight="bold">ROLE: </tspan><tspan fill="#f8f8f2" >CTESP Student @ ISEC / Fullstack Intern</tspan></text>
+<text x="30" y="100" font-family="JetBrains Mono, monospace" font-size="14"><tspan fill="#ff79c6" font-weight="bold">LOCATION: </tspan><tspan fill="#f8f8f2" >Cantanhede, Coimbra (Portugal)</tspan></text>
+<text x="30" y="120" font-family="JetBrains Mono, monospace" font-size="14"><tspan fill="#ff79c6" font-weight="bold">READING: </tspan><tspan fill="#f8f8f2" >The Pragmatic Programmer</tspan></text>
 
-        </div>
-      </div>
-    </div>
-  </foreignObject>
+  <rect x="0" y="0" width="0" height="0">
+    <animate attributeName="width" from="0" to="8" dur="1s" values="8;0;8" keyTimes="0;0.5;1" repeatCount="indefinite" />
+  </rect>
 </svg>
