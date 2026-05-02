@@ -22,6 +22,14 @@
 <summary><span style="display: inline-block; vertical-align: middle;"><img src="./.github/assets/terminal/whoami_header.svg" width="600" /></span></summary>
 <br>
 <img src="./.github/assets/terminal/whoami.svg" width="600" />
+</details>
+
+<hr>
+
+<details open>
+<summary><span style="display: inline-block; vertical-align: middle;"><img src="./.github/assets/terminal/socials_header.svg" width="600" /></span></summary>
+<br>
+<img src="./.github/assets/terminal/socials.svg" width="600" />
 <br>
 <p align="left">
   &nbsp;&nbsp;<a href="https://www.linkedin.com/in/gabrielferreirateixeira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
