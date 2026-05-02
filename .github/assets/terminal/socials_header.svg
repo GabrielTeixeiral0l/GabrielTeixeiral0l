@@ -13,22 +13,9 @@
         .prompt { color: #48B9C7; font-weight: bold; }
         .dir { color: #bd93f9; }
         .cmd { color: #f8f8f2; }
-        .cursor {
-          background: #f8f8f2;
-          display: inline-block;
-          width: 8px;
-          height: 15px;
-          vertical-align: middle;
-          margin-left: 5px;
-          animation: blink 1s step-end infinite;
-        }
-        @keyframes blink {
-          0%, 100% { opacity: 1; }
-          50% { opacity: 0; }
-        }
       </style>
       <div class="terminal">
-        <div><span class="prompt">gabriel@pop-os</span>:<span class="dir">~</span>$ <span class="cmd">ls socials/</span><span class="cursor"></span></div>
+        <div><span class="prompt">gabriel@pop-os</span>:<span class="dir">~</span>$ <span class="cmd">ls socials/</span></div>
       </div>
     </div>
   </foreignObject>
