@@ -78,7 +78,9 @@
 <details>
 <summary><span style="display: inline-block; vertical-align: middle;"><img src="./.github/assets/terminal/projects_header.svg" width="600" /></span></summary>
 <br>
-<img src="./.github/assets/terminal/projects.svg" width="600" />
+
+&nbsp;&nbsp;📁 [**MountSync**](https://github.com/GabrielTeixeiral0l/MountSync) - *Minimalist dotfile orchestrator powered by rclone.*
+
 </details>
 
 <hr>
