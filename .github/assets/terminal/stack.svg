@@ -2,8 +2,8 @@
   <rect width="600" height="90" rx="0 0 8 8" fill="#282a36" />
 <text x="30" y="30" font-family="JetBrains Mono, monospace" font-size="14"><tspan fill="#ff79c6" font-weight="bold">🐧 System &amp; Tools</tspan></text>
 <text x="45" y="50" font-family="JetBrains Mono, monospace" font-size="14"><tspan fill="#f8f8f2" >- Linux (Pop!_OS)</tspan></text>
-<text x="45" y="70" font-family="JetBrains Mono, monospace" font-size="14"><tspan fill="#f8f8f2" >- Bash / Git / Docker / Neovim</tspan></text>
+<text x="45" y="70" font-family="JetBrains Mono, monospace" font-size="14"><tspan fill="#f8f8f2" >- Bash / Git / VS Code</tspan></text>
 <text x="300" y="30" font-family="JetBrains Mono, monospace" font-size="14"><tspan fill="#ff79c6" font-weight="bold">⚙️ Fullstack Stack</tspan></text>
 <text x="315" y="50" font-family="JetBrains Mono, monospace" font-size="14"><tspan fill="#f8f8f2" >- C# / .NET / React</tspan></text>
-<text x="315" y="70" font-family="JetBrains Mono, monospace" font-size="14"><tspan fill="#f8f8f2" >- Node.js / SQL Server</tspan></text>
+<text x="315" y="70" font-family="JetBrains Mono, monospace" font-size="14"><tspan fill="#f8f8f2" >- Node.js / MongoDB / MySQL</tspan></text>
 </svg>
