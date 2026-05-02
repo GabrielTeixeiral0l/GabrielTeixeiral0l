@@ -10,7 +10,7 @@
           border-radius: 8px 8px 0 0;
           font-size: 14px;
         }
-        .prompt { color: #48B9C7; font-weight: bold; }
+        .prompt { color: #50fa7b; font-weight: bold; }
         .dir { color: #bd93f9; }
         .cmd { color: #f8f8f2; }
       </style>
