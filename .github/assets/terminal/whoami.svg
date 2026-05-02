@@ -1,12 +1,7 @@
-<svg fill="none" viewBox="0 0 600 140" width="600" height="140" xmlns="http://www.w3.org/2000/svg">
-  <rect width="600" height="140" rx="8" fill="#282a36" />
-  <text x="15" y="30" font-family="JetBrains Mono, monospace" font-size="14"><tspan fill="#48B9C7" font-weight="bold">gabriel@pop-os</tspan><tspan fill="#f8f8f2" >:</tspan><tspan fill="#bd93f9" >~</tspan><tspan fill="#f8f8f2" >$ </tspan><tspan fill="#f8f8f2" >run whoami</tspan></text>
-<text x="30" y="60" font-family="JetBrains Mono, monospace" font-size="14"><tspan fill="#ff79c6" font-weight="bold">NAME: </tspan><tspan fill="#f8f8f2" >Gabriel Teixeira</tspan></text>
-<text x="30" y="80" font-family="JetBrains Mono, monospace" font-size="14"><tspan fill="#ff79c6" font-weight="bold">ROLE: </tspan><tspan fill="#f8f8f2" >CTESP Student @ ISEC / Fullstack Intern</tspan></text>
-<text x="30" y="100" font-family="JetBrains Mono, monospace" font-size="14"><tspan fill="#ff79c6" font-weight="bold">LOCATION: </tspan><tspan fill="#f8f8f2" >Cantanhede, Coimbra (Portugal)</tspan></text>
-<text x="30" y="120" font-family="JetBrains Mono, monospace" font-size="14"><tspan fill="#ff79c6" font-weight="bold">READING: </tspan><tspan fill="#f8f8f2" >The Pragmatic Programmer</tspan></text>
-
-  <rect x="0" y="0" width="0" height="0">
-    <animate attributeName="width" from="0" to="8" dur="1s" values="8;0;8" keyTimes="0;0.5;1" repeatCount="indefinite" />
-  </rect>
+<svg fill="none" viewBox="0 0 600 110" width="600" height="110" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="110" rx="0 0 8 8" fill="#282a36" />
+<text x="30" y="30" font-family="JetBrains Mono, monospace" font-size="14"><tspan fill="#ff79c6" font-weight="bold">NAME: </tspan><tspan fill="#f8f8f2" >Gabriel Teixeira</tspan></text>
+<text x="30" y="50" font-family="JetBrains Mono, monospace" font-size="14"><tspan fill="#ff79c6" font-weight="bold">ROLE: </tspan><tspan fill="#f8f8f2" >CTESP Student @ ISEC / Fullstack Intern</tspan></text>
+<text x="30" y="70" font-family="JetBrains Mono, monospace" font-size="14"><tspan fill="#ff79c6" font-weight="bold">LOCATION: </tspan><tspan fill="#f8f8f2" >Cantanhede, Coimbra (Portugal)</tspan></text>
+<text x="30" y="90" font-family="JetBrains Mono, monospace" font-size="14"><tspan fill="#ff79c6" font-weight="bold">READING: </tspan><tspan fill="#f8f8f2" >The Pragmatic Programmer</tspan></text>
 </svg>

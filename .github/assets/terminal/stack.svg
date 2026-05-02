@@ -1,14 +1,9 @@
-<svg fill="none" viewBox="0 0 600 120" width="600" height="120" xmlns="http://www.w3.org/2000/svg">
-  <rect width="600" height="120" rx="8" fill="#282a36" />
-  <text x="15" y="30" font-family="JetBrains Mono, monospace" font-size="14"><tspan fill="#48B9C7" font-weight="bold">gabriel@pop-os</tspan><tspan fill="#f8f8f2" >:</tspan><tspan fill="#bd93f9" >~</tspan><tspan fill="#f8f8f2" >$ </tspan><tspan fill="#f8f8f2" >cat stack.conf</tspan></text>
-<text x="30" y="60" font-family="JetBrains Mono, monospace" font-size="14"><tspan fill="#ff79c6" font-weight="bold">🐧 System &amp; Tools</tspan></text>
-<text x="45" y="80" font-family="JetBrains Mono, monospace" font-size="14"><tspan fill="#f8f8f2" >- Linux (Pop!_OS)</tspan></text>
-<text x="45" y="100" font-family="JetBrains Mono, monospace" font-size="14"><tspan fill="#f8f8f2" >- Bash / Git / Docker / Neovim</tspan></text>
-<text x="300" y="60" font-family="JetBrains Mono, monospace" font-size="14"><tspan fill="#ff79c6" font-weight="bold">⚙️ Fullstack Stack</tspan></text>
-<text x="315" y="80" font-family="JetBrains Mono, monospace" font-size="14"><tspan fill="#f8f8f2" >- C# / .NET / React</tspan></text>
-<text x="315" y="100" font-family="JetBrains Mono, monospace" font-size="14"><tspan fill="#f8f8f2" >- Node.js / SQL Server</tspan></text>
-
-  <rect x="0" y="0" width="0" height="0">
-    <animate attributeName="width" from="0" to="8" dur="1s" values="8;0;8" keyTimes="0;0.5;1" repeatCount="indefinite" />
-  </rect>
+<svg fill="none" viewBox="0 0 600 90" width="600" height="90" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="90" rx="0 0 8 8" fill="#282a36" />
+<text x="30" y="30" font-family="JetBrains Mono, monospace" font-size="14"><tspan fill="#ff79c6" font-weight="bold">🐧 System &amp; Tools</tspan></text>
+<text x="45" y="50" font-family="JetBrains Mono, monospace" font-size="14"><tspan fill="#f8f8f2" >- Linux (Pop!_OS)</tspan></text>
+<text x="45" y="70" font-family="JetBrains Mono, monospace" font-size="14"><tspan fill="#f8f8f2" >- Bash / Git / Docker / Neovim</tspan></text>
+<text x="300" y="30" font-family="JetBrains Mono, monospace" font-size="14"><tspan fill="#ff79c6" font-weight="bold">⚙️ Fullstack Stack</tspan></text>
+<text x="315" y="50" font-family="JetBrains Mono, monospace" font-size="14"><tspan fill="#f8f8f2" >- C# / .NET / React</tspan></text>
+<text x="315" y="70" font-family="JetBrains Mono, monospace" font-size="14"><tspan fill="#f8f8f2" >- Node.js / SQL Server</tspan></text>
 </svg>

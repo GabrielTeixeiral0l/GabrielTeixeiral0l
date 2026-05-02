@@ -19,7 +19,7 @@
 <hr>
 
 <details open>
-<summary><b>whoami</b></summary>
+<summary><span style="display: inline-block; vertical-align: middle;"><img src="./.github/assets/terminal/whoami_header.svg" width="600" /></span></summary>
 <br>
 <img src="./.github/assets/terminal/whoami.svg" width="600" />
 <br>
@@ -31,7 +31,7 @@
 <hr>
 
 <details>
-<summary><b>stack.conf</b></summary>
+<summary><span style="display: inline-block; vertical-align: middle;"><img src="./.github/assets/terminal/stack_header.svg" width="600" /></span></summary>
 <br>
 <img src="./.github/assets/terminal/stack.svg" width="600" />
 </details>
@@ -39,9 +39,8 @@
 <hr>
 
 <details>
-<summary><b>git status</b></summary>
+<summary><span style="display: inline-block; vertical-align: middle;"><img src="./.github/assets/terminal/git_header.svg" width="600" /></span></summary>
 <br>
-<img src="./.github/assets/terminal/git_header.svg" width="600" />
 <table width="100%" style="background: #282a36; border-radius: 0 0 8px 8px; margin-top: -1px;">
 <tr>
 <td align="center" width="50%">
@@ -57,9 +56,8 @@
 <hr>
 
 <details>
-<summary><b>snake-game</b></summary>
+<summary><span style="display: inline-block; vertical-align: middle;"><img src="./.github/assets/terminal/snake_header.svg" width="600" /></span></summary>
 <br>
-<img src="./.github/assets/terminal/snake_header.svg" width="600" />
 <div style="background: #282a36; border-radius: 0 0 8px 8px; padding: 20px; margin-top: -1px;">
   <p align="center">
     <img src="https://raw.githubusercontent.com/GabrielTeixeiral0l/GabrielTeixeiral0l/output/github-contribution-grid-snake.svg" alt="Snake Game" />
@@ -70,7 +68,7 @@
 <hr>
 
 <details>
-<summary><b>projects</b></summary>
+<summary><span style="display: inline-block; vertical-align: middle;"><img src="./.github/assets/terminal/projects_header.svg" width="600" /></span></summary>
 <br>
 <img src="./.github/assets/terminal/projects.svg" width="600" />
 </details>
@@ -78,7 +76,7 @@
 <hr>
 
 <details>
-<summary><b>fortune</b></summary>
+<summary><span style="display: inline-block; vertical-align: middle;"><img src="./.github/assets/terminal/fortune_header.svg" width="600" /></span></summary>
 <br>
 <img src="./.github/assets/terminal/fortune.svg" width="600" />
 </details>
