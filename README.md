@@ -29,11 +29,16 @@
 <details open>
 <summary><span style="display: inline-block; vertical-align: middle;"><picture><img src="./.github/assets/terminal/socials_header.svg" width="600" /></picture></span></summary>
 <br>
-<picture><img src="./.github/assets/terminal/socials.svg" width="600" /></picture>
-<br>
-<p align="left">
-  &nbsp;&nbsp;<a href="https://www.linkedin.com/in/gabrielferreirateixeira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
+<table width="100%" style="background: #282a36; border-radius: 0 0 8px 8px; margin-top: -1px; border-collapse: collapse;">
+<tr>
+<td style="padding: 15px; font-family: 'JetBrains Mono', monospace; font-size: 14px; line-height: 1.6;">
+  &nbsp;&nbsp;<a href="https://www.linkedin.com/in/gabrielferreirateixeira/"><img src="https://img.shields.io/badge/linkedin.lnk-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  &nbsp;&nbsp;<a href="https://github.com/GabrielTeixeiral0l"><img src="https://img.shields.io/badge/github.lnk-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <br><br>
+  <span style="color: #6272a4;">&nbsp;&nbsp;Total: 2 social links found.</span>
+</td>
+</tr>
+</table>
 </details>
 
 <hr>
