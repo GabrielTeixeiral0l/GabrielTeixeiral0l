@@ -22,7 +22,9 @@
 <details open>
 <summary><span style="display: inline-block; vertical-align: middle;"><picture><img src="./.github/assets/terminal/whoami_header.svg" width="600" /></picture></span></summary>
 <br>
-<picture><img src="./.github/assets/terminal/whoami.svg" width="600" /></picture>
+<div style="background: #282a36; border-radius: 0 0 8px 8px; padding: 0 20px 20px 20px; margin-top: -1px; width: 600px; text-align: left;">
+  <picture><img src="./.github/assets/terminal/whoami.svg" width="600" style="margin-left: -20px;" /></picture>
+</div>
 </details>
 </div>
 
@@ -45,7 +47,9 @@
 <details>
 <summary><span style="display: inline-block; vertical-align: middle;"><picture><img src="./.github/assets/terminal/stack_header.svg" width="600" /></picture></span></summary>
 <br>
-<picture><img src="./.github/assets/terminal/stack.svg" width="600" /></picture>
+<div style="background: #282a36; border-radius: 0 0 8px 8px; padding: 0 20px 20px 20px; margin-top: -1px; width: 600px; text-align: left;">
+  <picture><img src="./.github/assets/terminal/stack.svg" width="600" style="margin-left: -20px;" /></picture>
+</div>
 </details>
 </div>
 
@@ -82,7 +86,7 @@
 <details>
 <summary><span style="display: inline-block; vertical-align: middle;"><picture><img src="./.github/assets/terminal/projects_header.svg" width="600" /></picture></span></summary>
 <br>
-<div style="width: 600px; text-align: left;">
+<div style="background: #282a36; border-radius: 0 0 8px 8px; padding: 25px; margin-top: -1px; width: 600px; text-align: left; font-family: 'JetBrains Mono', monospace;">
   &nbsp;&nbsp;📁 [**MountSync**](https://github.com/GabrielTeixeiral0l/MountSync) - *Minimalist dotfile orchestrator powered by rclone.*
 </div>
 </details>
@@ -94,6 +98,8 @@
 <details>
 <summary><span style="display: inline-block; vertical-align: middle;"><picture><img src="./.github/assets/terminal/fortune_header.svg" width="600" /></picture></span></summary>
 <br>
-<picture><img src="./.github/assets/terminal/fortune.svg" width="600" /></picture>
+<div style="background: #282a36; border-radius: 0 0 8px 8px; padding: 0 20px 20px 20px; margin-top: -1px; width: 600px; text-align: left;">
+  <picture><img src="./.github/assets/terminal/fortune.svg" width="600" style="margin-left: -20px;" /></picture>
+</div>
 </details>
 </div>
