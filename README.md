@@ -48,16 +48,10 @@
 <details>
 <summary><span style="display: inline-block; vertical-align: middle;"><picture><img src="./.github/assets/terminal/git_header.svg" width="600" /></picture></span></summary>
 <br>
-<table width="100%" style="background: #282a36; border-radius: 0 0 8px 8px; margin-top: -1px;">
-<tr>
-<td align="center" width="50%">
-<picture><img src="https://github-readme-stats-fast.vercel.app/api?username=GabrielTeixeiral0l&show_icons=true&theme=dracula&hide_border=true&title_color=8be9fd&text_color=f8f8f2&icon_color=bd93f9" height="150"></picture>
-</td>
-<td align="center" width="50%">
-<picture><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GabrielTeixeiral0l&layout=compact&theme=dracula&hide_border=true&title_color=8be9fd&text_color=f8f8f2" height="150"></picture>
-</td>
-</tr>
-</table>
+<div align="center" style="background: #282a36; border-radius: 0 0 8px 8px; padding: 20px; margin-top: -1px;">
+  <picture><img src="https://github-readme-stats-fast.vercel.app/api?username=GabrielTeixeiral0l&show_icons=true&theme=dracula&hide_border=true&title_color=8be9fd&text_color=f8f8f2&icon_color=bd93f9" height="150"></picture>
+  <picture><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GabrielTeixeiral0l&layout=compact&theme=dracula&hide_border=true&title_color=8be9fd&text_color=f8f8f2" height="150"></picture>
+</div>
 </details>
 
 <hr>
