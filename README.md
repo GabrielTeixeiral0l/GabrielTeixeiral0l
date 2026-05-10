@@ -19,19 +19,16 @@
 <hr>
 
 <div align="center">
-<div id="user-content-toc" align="left" style="width: 600px;">
 <details open>
 <summary><picture><img src="./.github/assets/terminal/whoami_header.svg" width="600" /></picture></summary>
 <br>
 <picture><img src="./.github/assets/terminal/whoami.svg" width="600" /></picture>
 </details>
 </div>
-</div>
 
 <hr>
 
 <div align="center">
-<div id="user-content-toc" align="left" style="width: 600px;">
 <details open>
 <summary><picture><img src="./.github/assets/terminal/socials_header.svg" width="600" /></picture></summary>
 <br>
@@ -41,24 +38,20 @@
 </div>
 </details>
 </div>
-</div>
 
 <hr>
 
 <div align="center">
-<div id="user-content-toc" align="left" style="width: 600px;">
 <details>
 <summary><picture><img src="./.github/assets/terminal/stack_header.svg" width="600" /></picture></summary>
 <br>
 <picture><img src="./.github/assets/terminal/stack.svg" width="600" /></picture>
 </details>
 </div>
-</div>
 
 <hr>
 
 <div align="center">
-<div id="user-content-toc" align="left" style="width: 600px;">
 <details>
 <summary><picture><img src="./.github/assets/terminal/git_header.svg" width="600" /></picture></summary>
 <br>
@@ -68,12 +61,10 @@
 </div>
 </details>
 </div>
-</div>
 
 <hr>
 
 <div align="center">
-<div id="user-content-toc" align="left" style="width: 600px;">
 <details>
 <summary><picture><img src="./.github/assets/terminal/snake_header.svg" width="600" /></picture></summary>
 <br>
@@ -82,12 +73,10 @@
 </div>
 </details>
 </div>
-</div>
 
 <hr>
 
 <div align="center">
-<div id="user-content-toc" align="left" style="width: 600px;">
 <details>
 <summary><picture><img src="./.github/assets/terminal/projects_header.svg" width="600" /></picture></summary>
 <br>
@@ -96,16 +85,13 @@
 </div>
 </details>
 </div>
-</div>
 
 <hr>
 
 <div align="center">
-<div id="user-content-toc" align="left" style="width: 600px;">
 <details>
 <summary><picture><img src="./.github/assets/terminal/fortune_header.svg" width="600" /></picture></summary>
 <br>
 <picture><img src="./.github/assets/terminal/fortune.svg" width="600" /></picture>
 </details>
-</div>
 </div>
