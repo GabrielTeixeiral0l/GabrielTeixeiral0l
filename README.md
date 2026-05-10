@@ -19,7 +19,7 @@
 <hr>
 
 <div align="center">
-<div align="left" style="width: 600px;">
+<div id="user-content-toc" align="left" style="width: 600px;">
 <details open>
 <summary><picture><img src="./.github/assets/terminal/whoami_header.svg" width="600" /></picture></summary>
 <br>
@@ -31,7 +31,7 @@
 <hr>
 
 <div align="center">
-<div align="left" style="width: 600px;">
+<div id="user-content-toc" align="left" style="width: 600px;">
 <details open>
 <summary><picture><img src="./.github/assets/terminal/socials_header.svg" width="600" /></picture></summary>
 <br>
@@ -46,7 +46,7 @@
 <hr>
 
 <div align="center">
-<div align="left" style="width: 600px;">
+<div id="user-content-toc" align="left" style="width: 600px;">
 <details>
 <summary><picture><img src="./.github/assets/terminal/stack_header.svg" width="600" /></picture></summary>
 <br>
@@ -58,7 +58,7 @@
 <hr>
 
 <div align="center">
-<div align="left" style="width: 600px;">
+<div id="user-content-toc" align="left" style="width: 600px;">
 <details>
 <summary><picture><img src="./.github/assets/terminal/git_header.svg" width="600" /></picture></summary>
 <br>
@@ -73,7 +73,7 @@
 <hr>
 
 <div align="center">
-<div align="left" style="width: 600px;">
+<div id="user-content-toc" align="left" style="width: 600px;">
 <details>
 <summary><picture><img src="./.github/assets/terminal/snake_header.svg" width="600" /></picture></summary>
 <br>
@@ -87,7 +87,7 @@
 <hr>
 
 <div align="center">
-<div align="left" style="width: 600px;">
+<div id="user-content-toc" align="left" style="width: 600px;">
 <details>
 <summary><picture><img src="./.github/assets/terminal/projects_header.svg" width="600" /></picture></summary>
 <br>
@@ -101,7 +101,7 @@
 <hr>
 
 <div align="center">
-<div align="left" style="width: 600px;">
+<div id="user-content-toc" align="left" style="width: 600px;">
 <details>
 <summary><picture><img src="./.github/assets/terminal/fortune_header.svg" width="600" /></picture></summary>
 <br>
