@@ -1,9 +1,9 @@
-# <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&lines=Gabriel+Teixeira;Pragmatic+Developer;Linux+%26+Open+Source" alt="Typing SVG" /></a></p>
+# <p align="center"><a href="https://git.io/typing-svg"><picture><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&lines=Gabriel+Teixeira;Pragmatic+Developer;Linux+%26+Open+Source" alt="Typing SVG" /></picture></a></p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Interning-success?style=flat-square&color=22C55E" />
-  <img src="https://img.shields.io/badge/Focus-Fullstack-blue?style=flat-square&color=48B9C7" />
-  <img src="https://img.shields.io/badge/OS-Pop!_OS-white?style=flat-square&logo=pop!_os&logoColor=48B9C7" />
+  <picture><img src="https://img.shields.io/badge/Status-Interning-success?style=flat-square&color=22C55E" /></picture>
+  <picture><img src="https://img.shields.io/badge/Focus-Fullstack-blue?style=flat-square&color=48B9C7" /></picture>
+  <picture><img src="https://img.shields.io/badge/OS-Pop!_OS-white?style=flat-square&logo=pop!_os&logoColor=48B9C7" /></picture>
 </div>
 
 <br>
@@ -11,7 +11,7 @@
 <br>
 
 <div align="center">
-  <img src="./.github/assets/neofetch.svg" width="600" />
+  <picture><img src="./.github/assets/neofetch.svg" width="600" /></picture>
 </div>
 
 <br>
@@ -21,7 +21,7 @@
 <details open>
 <summary><span style="display: inline-block; vertical-align: middle;"><picture><img src="./.github/assets/terminal/whoami_header.svg" width="600" /></picture></span></summary>
 <br>
-<img src="./.github/assets/terminal/whoami.svg" width="600" />
+<picture><img src="./.github/assets/terminal/whoami.svg" width="600" /></picture>
 </details>
 
 <hr>
@@ -29,7 +29,7 @@
 <details open>
 <summary><span style="display: inline-block; vertical-align: middle;"><picture><img src="./.github/assets/terminal/socials_header.svg" width="600" /></picture></span></summary>
 <br>
-<img src="./.github/assets/terminal/socials.svg" width="600" />
+<picture><img src="./.github/assets/terminal/socials.svg" width="600" /></picture>
 <br>
 <p align="left">
   &nbsp;&nbsp;<a href="https://www.linkedin.com/in/gabrielferreirateixeira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -41,7 +41,7 @@
 <details>
 <summary><span style="display: inline-block; vertical-align: middle;"><picture><img src="./.github/assets/terminal/stack_header.svg" width="600" /></picture></span></summary>
 <br>
-<img src="./.github/assets/terminal/stack.svg" width="600" />
+<picture><img src="./.github/assets/terminal/stack.svg" width="600" /></picture>
 </details>
 
 <hr>
@@ -52,10 +52,10 @@
 <table width="100%" style="background: #282a36; border-radius: 0 0 8px 8px; margin-top: -1px;">
 <tr>
 <td align="center" width="50%">
-<img src="https://github-readme-stats-fast.vercel.app/api?username=GabrielTeixeiral0l&show_icons=true&theme=dracula&hide_border=true&title_color=8be9fd&text_color=f8f8f2&icon_color=bd93f9" height="150">
+<picture><img src="https://github-readme-stats-fast.vercel.app/api?username=GabrielTeixeiral0l&show_icons=true&theme=dracula&hide_border=true&title_color=8be9fd&text_color=f8f8f2&icon_color=bd93f9" height="150"></picture>
 </td>
 <td align="center" width="50%">
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GabrielTeixeiral0l&layout=compact&theme=dracula&hide_border=true&title_color=8be9fd&text_color=f8f8f2" height="150">
+<picture><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GabrielTeixeiral0l&layout=compact&theme=dracula&hide_border=true&title_color=8be9fd&text_color=f8f8f2" height="150"></picture>
 </td>
 </tr>
 </table>
@@ -68,7 +68,7 @@
 <br>
 <div style="background: #282a36; border-radius: 0 0 8px 8px; padding: 20px; margin-top: -1px;">
   <p align="center">
-    <img src="https://raw.githubusercontent.com/GabrielTeixeiral0l/GabrielTeixeiral0l/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+    <picture><img src="https://raw.githubusercontent.com/GabrielTeixeiral0l/GabrielTeixeiral0l/output/github-contribution-grid-snake.svg" alt="Snake Game" /></picture>
   </p>
 </div>
 </details>
@@ -88,5 +88,5 @@
 <details>
 <summary><span style="display: inline-block; vertical-align: middle;"><picture><img src="./.github/assets/terminal/fortune_header.svg" width="600" /></picture></span></summary>
 <br>
-<img src="./.github/assets/terminal/fortune.svg" width="600" />
+<picture><img src="./.github/assets/terminal/fortune.svg" width="600" /></picture>
 </details>
