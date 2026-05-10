@@ -18,68 +18,82 @@
 
 <hr>
 
+<div align="center">
 <details open>
 <summary><span style="display: inline-block; vertical-align: middle;"><picture><img src="./.github/assets/terminal/whoami_header.svg" width="600" /></picture></span></summary>
 <br>
 <picture><img src="./.github/assets/terminal/whoami.svg" width="600" /></picture>
 </details>
+</div>
 
 <hr>
 
+<div align="center">
 <details open>
 <summary><span style="display: inline-block; vertical-align: middle;"><picture><img src="./.github/assets/terminal/socials_header.svg" width="600" /></picture></span></summary>
 <br>
-<div style="background: #282a36; border-radius: 0 0 8px 8px; padding: 25px; margin-top: -1px; font-family: 'JetBrains Mono', monospace;">
+<div style="background: #282a36; border-radius: 0 0 8px 8px; padding: 25px; margin-top: -1px; font-family: 'JetBrains Mono', monospace; width: 600px; text-align: left;">
   &nbsp;&nbsp;<a href="https://www.linkedin.com/in/gabrielferreirateixeira/"><img src="https://img.shields.io/badge/linkedin.lnk-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   &nbsp;&nbsp;<a href="https://github.com/GabrielTeixeiral0l"><img src="https://img.shields.io/badge/github.lnk-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 </details>
+</div>
 
 <hr>
 
+<div align="center">
 <details>
 <summary><span style="display: inline-block; vertical-align: middle;"><picture><img src="./.github/assets/terminal/stack_header.svg" width="600" /></picture></span></summary>
 <br>
 <picture><img src="./.github/assets/terminal/stack.svg" width="600" /></picture>
 </details>
+</div>
 
 <hr>
 
+<div align="center">
 <details>
 <summary><span style="display: inline-block; vertical-align: middle;"><picture><img src="./.github/assets/terminal/git_header.svg" width="600" /></picture></span></summary>
 <br>
-<div align="center" style="background: #282a36; border-radius: 0 0 8px 8px; padding: 20px; margin-top: -1px;">
+<div align="center" style="background: #282a36; border-radius: 0 0 8px 8px; padding: 20px; margin-top: -1px; width: 600px;">
   <picture><img src="https://github-readme-stats-fast.vercel.app/api?username=GabrielTeixeiral0l&show_icons=true&theme=dracula&hide_border=true&title_color=8be9fd&text_color=f8f8f2&icon_color=bd93f9" height="150"></picture>
   <picture><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GabrielTeixeiral0l&layout=compact&theme=dracula&hide_border=true&title_color=8be9fd&text_color=f8f8f2" height="150"></picture>
 </div>
 </details>
+</div>
 
 <hr>
 
+<div align="center">
 <details>
 <summary><span style="display: inline-block; vertical-align: middle;"><picture><img src="./.github/assets/terminal/snake_header.svg" width="600" /></picture></span></summary>
 <br>
-<div style="background: #282a36; border-radius: 0 0 8px 8px; padding: 20px; margin-top: -1px;">
+<div style="background: #282a36; border-radius: 0 0 8px 8px; padding: 20px; margin-top: -1px; width: 600px;">
   <p align="center">
     <picture><img src="https://raw.githubusercontent.com/GabrielTeixeiral0l/GabrielTeixeiral0l/output/github-contribution-grid-snake.svg" alt="Snake Game" /></picture>
   </p>
 </div>
 </details>
+</div>
 
 <hr>
 
+<div align="center">
 <details>
 <summary><span style="display: inline-block; vertical-align: middle;"><picture><img src="./.github/assets/terminal/projects_header.svg" width="600" /></picture></span></summary>
 <br>
-
-&nbsp;&nbsp;📁 [**MountSync**](https://github.com/GabrielTeixeiral0l/MountSync) - *Minimalist dotfile orchestrator powered by rclone.*
-
+<div style="width: 600px; text-align: left;">
+  &nbsp;&nbsp;📁 [**MountSync**](https://github.com/GabrielTeixeiral0l/MountSync) - *Minimalist dotfile orchestrator powered by rclone.*
+</div>
 </details>
+</div>
 
 <hr>
 
+<div align="center">
 <details>
 <summary><span style="display: inline-block; vertical-align: middle;"><picture><img src="./.github/assets/terminal/fortune_header.svg" width="600" /></picture></span></summary>
 <br>
 <picture><img src="./.github/assets/terminal/fortune.svg" width="600" /></picture>
 </details>
+</div>
