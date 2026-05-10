@@ -19,7 +19,7 @@
 <hr>
 
 <details open>
-<summary><span style="display: inline-block; vertical-align: middle;"><img src="./.github/assets/terminal/whoami_header.svg" width="600" /></span></summary>
+<summary><span style="display: inline-block; vertical-align: middle;"><picture><img src="./.github/assets/terminal/whoami_header.svg" width="600" /></picture></span></summary>
 <br>
 <img src="./.github/assets/terminal/whoami.svg" width="600" />
 </details>
@@ -27,7 +27,7 @@
 <hr>
 
 <details open>
-<summary><span style="display: inline-block; vertical-align: middle;"><img src="./.github/assets/terminal/socials_header.svg" width="600" /></span></summary>
+<summary><span style="display: inline-block; vertical-align: middle;"><picture><img src="./.github/assets/terminal/socials_header.svg" width="600" /></picture></span></summary>
 <br>
 <img src="./.github/assets/terminal/socials.svg" width="600" />
 <br>
@@ -39,7 +39,7 @@
 <hr>
 
 <details>
-<summary><span style="display: inline-block; vertical-align: middle;"><img src="./.github/assets/terminal/stack_header.svg" width="600" /></span></summary>
+<summary><span style="display: inline-block; vertical-align: middle;"><picture><img src="./.github/assets/terminal/stack_header.svg" width="600" /></picture></span></summary>
 <br>
 <img src="./.github/assets/terminal/stack.svg" width="600" />
 </details>
@@ -47,7 +47,7 @@
 <hr>
 
 <details>
-<summary><span style="display: inline-block; vertical-align: middle;"><img src="./.github/assets/terminal/git_header.svg" width="600" /></span></summary>
+<summary><span style="display: inline-block; vertical-align: middle;"><picture><img src="./.github/assets/terminal/git_header.svg" width="600" /></picture></span></summary>
 <br>
 <table width="100%" style="background: #282a36; border-radius: 0 0 8px 8px; margin-top: -1px;">
 <tr>
@@ -64,7 +64,7 @@
 <hr>
 
 <details>
-<summary><span style="display: inline-block; vertical-align: middle;"><img src="./.github/assets/terminal/snake_header.svg" width="600" /></span></summary>
+<summary><span style="display: inline-block; vertical-align: middle;"><picture><img src="./.github/assets/terminal/snake_header.svg" width="600" /></picture></span></summary>
 <br>
 <div style="background: #282a36; border-radius: 0 0 8px 8px; padding: 20px; margin-top: -1px;">
   <p align="center">
@@ -76,7 +76,7 @@
 <hr>
 
 <details>
-<summary><span style="display: inline-block; vertical-align: middle;"><img src="./.github/assets/terminal/projects_header.svg" width="600" /></span></summary>
+<summary><span style="display: inline-block; vertical-align: middle;"><picture><img src="./.github/assets/terminal/projects_header.svg" width="600" /></picture></span></summary>
 <br>
 
 &nbsp;&nbsp;📁 [**MountSync**](https://github.com/GabrielTeixeiral0l/MountSync) - *Minimalist dotfile orchestrator powered by rclone.*
@@ -86,7 +86,7 @@
 <hr>
 
 <details>
-<summary><span style="display: inline-block; vertical-align: middle;"><img src="./.github/assets/terminal/fortune_header.svg" width="600" /></span></summary>
+<summary><span style="display: inline-block; vertical-align: middle;"><picture><img src="./.github/assets/terminal/fortune_header.svg" width="600" /></picture></span></summary>
 <br>
 <img src="./.github/assets/terminal/fortune.svg" width="600" />
 </details>
