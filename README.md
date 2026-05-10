@@ -18,19 +18,16 @@
 
 <hr>
 
-<div id="user-content-toc">
 <details open>
-<summary style="display: block;"><h3 align="left" style="display: inline;"><span style="display: inline-block; vertical-align: middle;"><picture><img src="./.github/assets/terminal/whoami_header.svg" width="600" /></picture></span></h3></summary>
+<summary><span style="display: inline-block; vertical-align: middle;"><picture><img src="./.github/assets/terminal/whoami_header.svg" width="550" /></picture></span></summary>
 <br>
 <picture><img src="./.github/assets/terminal/whoami.svg" width="600" /></picture>
 </details>
-</div>
 
 <hr>
 
-<div id="user-content-toc">
 <details open>
-<summary style="display: block;"><h3 align="left" style="display: inline;"><span style="display: inline-block; vertical-align: middle;"><picture><img src="./.github/assets/terminal/socials_header.svg" width="600" /></picture></span></h3></summary>
+<summary><span style="display: inline-block; vertical-align: middle;"><picture><img src="./.github/assets/terminal/socials_header.svg" width="550" /></picture></span></summary>
 <br>
 <picture><img src="./.github/assets/terminal/socials.svg" width="600" /></picture>
 <br>
@@ -38,23 +35,19 @@
   &nbsp;&nbsp;<a href="https://www.linkedin.com/in/gabrielferreirateixeira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 </details>
-</div>
 
 <hr>
 
-<div id="user-content-toc">
 <details>
-<summary style="display: block;"><h3 align="left" style="display: inline;"><span style="display: inline-block; vertical-align: middle;"><picture><img src="./.github/assets/terminal/stack_header.svg" width="600" /></picture></span></h3></summary>
+<summary><span style="display: inline-block; vertical-align: middle;"><picture><img src="./.github/assets/terminal/stack_header.svg" width="550" /></picture></span></summary>
 <br>
 <picture><img src="./.github/assets/terminal/stack.svg" width="600" /></picture>
 </details>
-</div>
 
 <hr>
 
-<div id="user-content-toc">
 <details>
-<summary style="display: block;"><h3 align="left" style="display: inline;"><span style="display: inline-block; vertical-align: middle;"><picture><img src="./.github/assets/terminal/git_header.svg" width="600" /></picture></span></h3></summary>
+<summary><span style="display: inline-block; vertical-align: middle;"><picture><img src="./.github/assets/terminal/git_header.svg" width="550" /></picture></span></summary>
 <br>
 <table width="100%" style="background: #282a36; border-radius: 0 0 8px 8px; margin-top: -1px;">
 <tr>
@@ -67,13 +60,11 @@
 </tr>
 </table>
 </details>
-</div>
 
 <hr>
 
-<div id="user-content-toc">
 <details>
-<summary style="display: block;"><h3 align="left" style="display: inline;"><span style="display: inline-block; vertical-align: middle;"><picture><img src="./.github/assets/terminal/snake_header.svg" width="600" /></picture></span></h3></summary>
+<summary><span style="display: inline-block; vertical-align: middle;"><picture><img src="./.github/assets/terminal/snake_header.svg" width="550" /></picture></span></summary>
 <br>
 <div style="background: #282a36; border-radius: 0 0 8px 8px; padding: 20px; margin-top: -1px;">
   <p align="center">
@@ -81,26 +72,21 @@
   </p>
 </div>
 </details>
-</div>
 
 <hr>
 
-<div id="user-content-toc">
 <details>
-<summary style="display: block;"><h3 align="left" style="display: inline;"><span style="display: inline-block; vertical-align: middle;"><picture><img src="./.github/assets/terminal/projects_header.svg" width="600" /></picture></span></h3></summary>
+<summary><span style="display: inline-block; vertical-align: middle;"><picture><img src="./.github/assets/terminal/projects_header.svg" width="550" /></picture></span></summary>
 <br>
 
 &nbsp;&nbsp;📁 [**MountSync**](https://github.com/GabrielTeixeiral0l/MountSync) - *Minimalist dotfile orchestrator powered by rclone.*
 
 </details>
-</div>
 
 <hr>
 
-<div id="user-content-toc">
 <details>
-<summary style="display: block;"><h3 align="left" style="display: inline;"><span style="display: inline-block; vertical-align: middle;"><picture><img src="./.github/assets/terminal/fortune_header.svg" width="600" /></picture></span></h3></summary>
+<summary><span style="display: inline-block; vertical-align: middle;"><picture><img src="./.github/assets/terminal/fortune_header.svg" width="550" /></picture></span></summary>
 <br>
 <picture><img src="./.github/assets/terminal/fortune.svg" width="600" /></picture>
 </details>
-</div>
