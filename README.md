@@ -80,8 +80,8 @@
 <details>
 <summary><picture><img src="./.github/assets/terminal/projects_header.svg" width="600" /></picture></summary>
 <br>
-<div style="background: #282a36; border-radius: 0 0 8px 8px; padding: 25px; margin-top: -1px; width: 600px; font-family: 'JetBrains Mono', monospace;">
-  📁 [**MountSync**](https://github.com/GabrielTeixeiral0l/MountSync) - *Minimalist dotfile orchestrator powered by rclone.*
+<div style="background: #282a36; border-radius: 0 0 8px 8px; padding: 25px; margin-top: -1px; width: 600px; font-family: 'JetBrains Mono', monospace; text-align: left;">
+  &nbsp;&nbsp;📁 <a href="https://github.com/GabrielTeixeiral0l/MountSync"><b>MountSync</b></a> - <i>Minimalist dotfile orchestrator powered by rclone.</i>
 </div>
 </details>
 </div>
