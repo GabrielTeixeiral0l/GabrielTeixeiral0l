@@ -85,13 +85,3 @@
 </div>
 </details>
 </div>
-
-<hr>
-
-<div align="center">
-<details>
-<summary><picture><img src="./.github/assets/terminal/fortune_header.svg" width="600" /></picture></summary>
-<br>
-<picture><img src="./.github/assets/terminal/fortune.svg" width="600" /></picture>
-</details>
-</div>
